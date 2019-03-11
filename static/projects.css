@@ -3,7 +3,24 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    margin-bottom: 200px;
+}
+.bridgehacs{
+    width: 60%;
+    margin-bottom: 200px;
+
+}
+
+.mit{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     margin-bottom: 400px;
+    display: block;
+    width: 40%;
+}
+
+.mit-caption{
 }
 
 .tmayl-item{
@@ -28,3 +45,19 @@
     position: sticky;
     bottom:50%;
 }
+
+@media only screen and (max-width: 850px) {
+  .bridgehacs{
+      margin-bottom: 50px;
+      width:80% !important;
+  }
+  .carousel-caption {
+      position: sticky !important;
+  }
+  .mit{
+      width: 80% !important;
+  }
+
+}
+
+
