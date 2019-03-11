@@ -11,7 +11,11 @@
 }
 
 .top-nav{
-    font-size: 1.2em;
+    color: white;
+    background-color: black;
+}
+
+.hello{
     background-color: #0e348b;
 }
 

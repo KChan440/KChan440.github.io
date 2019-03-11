@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{Qs3m:function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/head",function(){var n=o("KCgP");return{page:n.default||n}}])}},[["Qs3m",1,0]]]);
