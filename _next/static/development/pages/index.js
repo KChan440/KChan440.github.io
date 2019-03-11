@@ -28183,11 +28183,18 @@ function (_Component) {
           lineNumber: 14
         },
         __self: this
-      }, "Github"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Github"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(react_bootstrap___WEBPACK_IMPORTED_MODULE_7__["Nav"].Link, {
+        href: "../../static/Resume.pdf",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
+      }, "Resume"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "landing",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 17
+          lineNumber: 19
         },
         __self: this
       }));
