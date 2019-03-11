@@ -1,0 +1,30 @@
+.center{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 400px;
+}
+
+.tmayl-item{
+    padding: 20px;
+}
+.tmayl{
+    max-width: 20%;
+    min-width: 200px;
+}
+
+.tmayl1{
+    max-width: 30%;
+    min-width: 400px;
+}
+
+.tmayl2{
+    max-width: 30%;
+    min-width: 400px;
+}
+
+.carousel-caption{
+    position: sticky;
+    bottom:50%;
+}

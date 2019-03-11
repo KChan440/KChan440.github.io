@@ -7,5 +7,15 @@
     background-repeat: no-repeat;
     width:-webkit-fill-available;
     background-attachment:fixed;
+    color:white;
 }
 
+.top-nav{
+    font-size: 1.2em;
+    background-color: #0e348b;
+}
+
+.about{
+    background-color:black;
+    color:white;
+}
